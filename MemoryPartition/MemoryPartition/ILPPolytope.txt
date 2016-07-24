@@ -1,0 +1,18 @@
+
+Minimize
+i0  +  i1  +   k0  +  k1 
+
+Subject To
+ + 5 k0   =  0
+
+Bound 
+0 <= i0  <=  10000
+0 <= i1  <=  10000
+-100 <= k0 <= 100
+
+Integer 
+i0
+i1
+k0
+
+End
